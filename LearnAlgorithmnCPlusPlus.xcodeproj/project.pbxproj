@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		22BFB62A23DC073800108510 /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 22BFB62923DC073800108510 /* main.cpp */; };
+		223F95F923DC32B9002AF35F /* VitalyAndString.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 223F95F823DC32B9002AF35F /* VitalyAndString.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -23,8 +23,10 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		223F95F423DC1D58002AF35F /* Fashion in Berland.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "Fashion in Berland.cpp"; sourceTree = "<group>"; usesTabs = 0; };
+		223F95F623DC22A1002AF35F /* BearAndGame.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = BearAndGame.cpp; sourceTree = "<group>"; };
+		223F95F823DC32B9002AF35F /* VitalyAndString.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = VitalyAndString.cpp; sourceTree = "<group>"; };
 		22BFB62623DC073800108510 /* LearnAlgorithmnCPlusPlus */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = LearnAlgorithmnCPlusPlus; sourceTree = BUILT_PRODUCTS_DIR; };
-		22BFB62923DC073800108510 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -38,6 +40,16 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		223F95F323DC1CED002AF35F /* DYNAMIC ARRAY AND STRING   */ = {
+			isa = PBXGroup;
+			children = (
+				223F95F423DC1D58002AF35F /* Fashion in Berland.cpp */,
+				223F95F623DC22A1002AF35F /* BearAndGame.cpp */,
+				223F95F823DC32B9002AF35F /* VitalyAndString.cpp */,
+			);
+			path = "DYNAMIC ARRAY AND STRING  ";
+			sourceTree = "<group>";
+		};
 		22BFB61D23DC073800108510 = {
 			isa = PBXGroup;
 			children = (
@@ -57,7 +69,7 @@
 		22BFB62823DC073800108510 /* LearnAlgorithmnCPlusPlus */ = {
 			isa = PBXGroup;
 			children = (
-				22BFB62923DC073800108510 /* main.cpp */,
+				223F95F323DC1CED002AF35F /* DYNAMIC ARRAY AND STRING   */,
 			);
 			path = LearnAlgorithmnCPlusPlus;
 			sourceTree = "<group>";
@@ -119,7 +131,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				22BFB62A23DC073800108510 /* main.cpp in Sources */,
+				223F95F923DC32B9002AF35F /* VitalyAndString.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -241,6 +253,8 @@
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = 6K4767PGQM;
 				ENABLE_HARDENED_RUNTIME = YES;
+				NEW_SETTING = "";
+				NEW_SETTING1 = "";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Debug;
@@ -251,6 +265,8 @@
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = 6K4767PGQM;
 				ENABLE_HARDENED_RUNTIME = YES;
+				NEW_SETTING = "";
+				NEW_SETTING1 = "";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Release;
