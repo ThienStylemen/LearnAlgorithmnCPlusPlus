@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		223F95FE23DC44B8002AF35F /* BigSegment.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 223F95FD23DC44B8002AF35F /* BigSegment.cpp */; };
+		2200DCDD23DCED6C0003F3F1 /* Array.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 2200DCDC23DCED6C0003F3F1 /* Array.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -23,6 +23,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		2200DCDC23DCED6C0003F3F1 /* Array.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = Array.cpp; sourceTree = "<group>"; };
 		223F95F423DC1D58002AF35F /* Fashion in Berland.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "Fashion in Berland.cpp"; sourceTree = "<group>"; usesTabs = 0; };
 		223F95F623DC22A1002AF35F /* BearAndGame.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = BearAndGame.cpp; sourceTree = "<group>"; };
 		223F95F823DC32B9002AF35F /* VitalyAndString.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = VitalyAndString.cpp; sourceTree = "<group>"; };
@@ -42,6 +43,14 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		2200DCDB23DCED300003F3F1 /* ALGORITHMIC COMPLEXITY */ = {
+			isa = PBXGroup;
+			children = (
+				2200DCDC23DCED6C0003F3F1 /* Array.cpp */,
+			);
+			path = "ALGORITHMIC COMPLEXITY";
+			sourceTree = "<group>";
+		};
 		223F95F323DC1CED002AF35F /* DYNAMIC ARRAY AND STRING   */ = {
 			isa = PBXGroup;
 			children = (
@@ -73,6 +82,7 @@
 		22BFB62823DC073800108510 /* LearnAlgorithmnCPlusPlus */ = {
 			isa = PBXGroup;
 			children = (
+				2200DCDB23DCED300003F3F1 /* ALGORITHMIC COMPLEXITY */,
 				223F95F323DC1CED002AF35F /* DYNAMIC ARRAY AND STRING   */,
 			);
 			path = LearnAlgorithmnCPlusPlus;
@@ -135,7 +145,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				223F95FE23DC44B8002AF35F /* BigSegment.cpp in Sources */,
+				2200DCDD23DCED6C0003F3F1 /* Array.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
