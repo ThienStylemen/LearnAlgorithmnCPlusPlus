@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		2200DCDF23DD08D00003F3F1 /* GeorgeAndRound.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 2200DCDE23DD08D00003F3F1 /* GeorgeAndRound.cpp */; };
+		22E8A63623DD507B00A0ABB5 /* Books.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 22E8A63523DD507B00A0ABB5 /* Books.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -31,6 +31,7 @@
 		223F95FA23DC3A64002AF35F /* Array2BachHigherThanArray1Begin.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = Array2BachHigherThanArray1Begin.cpp; sourceTree = "<group>"; };
 		223F95FD23DC44B8002AF35F /* BigSegment.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = BigSegment.cpp; sourceTree = "<group>"; };
 		22BFB62623DC073800108510 /* LearnAlgorithmnCPlusPlus */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = LearnAlgorithmnCPlusPlus; sourceTree = BUILT_PRODUCTS_DIR; };
+		22E8A63523DD507B00A0ABB5 /* Books.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = Books.cpp; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -49,6 +50,7 @@
 			children = (
 				2200DCDC23DCED6C0003F3F1 /* Array.cpp */,
 				2200DCDE23DD08D00003F3F1 /* GeorgeAndRound.cpp */,
+				22E8A63523DD507B00A0ABB5 /* Books.cpp */,
 			);
 			path = "ALGORITHMIC COMPLEXITY";
 			sourceTree = "<group>";
@@ -147,7 +149,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				2200DCDF23DD08D00003F3F1 /* GeorgeAndRound.cpp in Sources */,
+				22E8A63623DD507B00A0ABB5 /* Books.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
