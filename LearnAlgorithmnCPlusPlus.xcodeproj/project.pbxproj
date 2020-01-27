@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		2230E61123DF210A00095C08 /* Guilty Prince.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 2230E61023DF210A00095C08 /* Guilty Prince.cpp */; };
+		22C3B70023DFAA0400C20796 /* Bishu and his Girlfriend  Bishu and his Girlfriend  Bishu and his Girlfriend  Bishu and his Girlfriend.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 22C3B6FF23DFAA0400C20796 /* Bishu and his Girlfriend  Bishu and his Girlfriend  Bishu and his Girlfriend  Bishu and his Girlfriend.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -33,6 +33,7 @@
 		223F95FA23DC3A64002AF35F /* Array2BachHigherThanArray1Begin.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = Array2BachHigherThanArray1Begin.cpp; sourceTree = "<group>"; };
 		223F95FD23DC44B8002AF35F /* BigSegment.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = BigSegment.cpp; sourceTree = "<group>"; };
 		22BFB62623DC073800108510 /* LearnAlgorithmnCPlusPlus */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = LearnAlgorithmnCPlusPlus; sourceTree = BUILT_PRODUCTS_DIR; };
+		22C3B6FF23DFAA0400C20796 /* Bishu and his Girlfriend  Bishu and his Girlfriend  Bishu and his Girlfriend  Bishu and his Girlfriend.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "Bishu and his Girlfriend  Bishu and his Girlfriend  Bishu and his Girlfriend  Bishu and his Girlfriend.cpp"; sourceTree = "<group>"; };
 		22CD2DB723DE72D1007AC7C7 /* Chores.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = Chores.cpp; sourceTree = "<group>"; };
 		22CD2DB923DE7B2A007AC7C7 /* SortTheArray.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = SortTheArray.cpp; sourceTree = "<group>"; };
 		22CD2DBC23DE8AD7007AC7C7 /* Transform the Expression.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "Transform the Expression.cpp"; sourceTree = "<group>"; };
@@ -93,41 +94,50 @@
 		22BFB62823DC073800108510 /* LearnAlgorithmnCPlusPlus */ = {
 			isa = PBXGroup;
 			children = (
-				22CD2DC023DE99BF007AC7C7 /* Breadth First Search */,
-				22CD2DBB23DE8AA9007AC7C7 /* Stack And Queue */,
-				22E8A63723DD5B7900A0ABB5 /* Sorting */,
+				22C3B6FE23DFA99A00C20796 /* DEPTH FIRST SEARCH */,
+				22CD2DC023DE99BF007AC7C7 /* BREATH FIRST SEARCH */,
+				22CD2DBB23DE8AA9007AC7C7 /* STACK AND QUEUE */,
+				22E8A63723DD5B7900A0ABB5 /* SORTING */,
 				2200DCDB23DCED300003F3F1 /* ALGORITHMIC COMPLEXITY */,
 				223F95F323DC1CED002AF35F /* DYNAMIC ARRAY AND STRING   */,
 			);
 			path = LearnAlgorithmnCPlusPlus;
 			sourceTree = "<group>";
 		};
-		22CD2DBB23DE8AA9007AC7C7 /* Stack And Queue */ = {
+		22C3B6FE23DFA99A00C20796 /* DEPTH FIRST SEARCH */ = {
+			isa = PBXGroup;
+			children = (
+				22C3B6FF23DFAA0400C20796 /* Bishu and his Girlfriend  Bishu and his Girlfriend  Bishu and his Girlfriend  Bishu and his Girlfriend.cpp */,
+			);
+			path = "DEPTH FIRST SEARCH";
+			sourceTree = "<group>";
+		};
+		22CD2DBB23DE8AA9007AC7C7 /* STACK AND QUEUE */ = {
 			isa = PBXGroup;
 			children = (
 				22CD2DBC23DE8AD7007AC7C7 /* Transform the Expression.cpp */,
 				22CD2DBE23DE95A4007AC7C7 /* Throwing Cards Away I.cpp */,
 			);
-			path = "Stack And Queue";
+			path = "STACK AND QUEUE";
 			sourceTree = "<group>";
 		};
-		22CD2DC023DE99BF007AC7C7 /* Breadth First Search */ = {
+		22CD2DC023DE99BF007AC7C7 /* BREATH FIRST SEARCH */ = {
 			isa = PBXGroup;
 			children = (
 				22CD2DC123DE99F9007AC7C7 /* Breadth First Search: Shortest Reach.cpp */,
 				2230E60E23DF145200095C08 /* Validate The Maze  Validate The Maze  Validate The Maze.cpp */,
 				2230E61023DF210A00095C08 /* Guilty Prince.cpp */,
 			);
-			path = "Breadth First Search";
+			path = "BREATH FIRST SEARCH";
 			sourceTree = "<group>";
 		};
-		22E8A63723DD5B7900A0ABB5 /* Sorting */ = {
+		22E8A63723DD5B7900A0ABB5 /* SORTING */ = {
 			isa = PBXGroup;
 			children = (
 				22CD2DB723DE72D1007AC7C7 /* Chores.cpp */,
 				22CD2DB923DE7B2A007AC7C7 /* SortTheArray.cpp */,
 			);
-			path = Sorting;
+			path = SORTING;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -187,7 +197,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				2230E61123DF210A00095C08 /* Guilty Prince.cpp in Sources */,
+				22C3B70023DFAA0400C20796 /* Bishu and his Girlfriend  Bishu and his Girlfriend  Bishu and his Girlfriend  Bishu and his Girlfriend.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
