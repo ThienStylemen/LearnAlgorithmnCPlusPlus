@@ -27,6 +27,43 @@
  Output
 
  For each test case find whether the maze is " valid" or " invalid".
+ 
+ 6
+ 4 4
+ ####
+ #...
+ #.##
+ #.##
+ 5 5
+ #.###
+ #..##
+ ##..#
+ #.#.#
+ ###.#
+ 1 1
+ .
+ 5 1
+ #
+ #
+ .
+ .
+ #
+ 2 2
+ #.
+ .#
+ 3 4
+ #..#
+ #.##
+ #.##
+ 
+ valid
+ valid
+ invalid
+ valid
+ invalid
+ invalid
+
+ 
  */
 
 #include<algorithm>
@@ -106,3 +143,5 @@ int main(){
     system("pause");
     return 0;
 }
+
+
