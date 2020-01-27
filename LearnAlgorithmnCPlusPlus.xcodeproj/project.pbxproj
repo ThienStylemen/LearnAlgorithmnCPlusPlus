@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		22CD2DBA23DE7B2A007AC7C7 /* SortTheArray.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 22CD2DB923DE7B2A007AC7C7 /* SortTheArray.cpp */; };
+		22CD2DBD23DE8AD7007AC7C7 /* Transform the Expression.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 22CD2DBC23DE8AD7007AC7C7 /* Transform the Expression.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -33,6 +33,7 @@
 		22BFB62623DC073800108510 /* LearnAlgorithmnCPlusPlus */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = LearnAlgorithmnCPlusPlus; sourceTree = BUILT_PRODUCTS_DIR; };
 		22CD2DB723DE72D1007AC7C7 /* Chores.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = Chores.cpp; sourceTree = "<group>"; };
 		22CD2DB923DE7B2A007AC7C7 /* SortTheArray.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = SortTheArray.cpp; sourceTree = "<group>"; };
+		22CD2DBC23DE8AD7007AC7C7 /* Transform the Expression.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "Transform the Expression.cpp"; sourceTree = "<group>"; };
 		22E8A63523DD507B00A0ABB5 /* Books.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = Books.cpp; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -88,11 +89,20 @@
 		22BFB62823DC073800108510 /* LearnAlgorithmnCPlusPlus */ = {
 			isa = PBXGroup;
 			children = (
+				22CD2DBB23DE8AA9007AC7C7 /* Stack And Queue */,
 				22E8A63723DD5B7900A0ABB5 /* Sorting */,
 				2200DCDB23DCED300003F3F1 /* ALGORITHMIC COMPLEXITY */,
 				223F95F323DC1CED002AF35F /* DYNAMIC ARRAY AND STRING   */,
 			);
 			path = LearnAlgorithmnCPlusPlus;
+			sourceTree = "<group>";
+		};
+		22CD2DBB23DE8AA9007AC7C7 /* Stack And Queue */ = {
+			isa = PBXGroup;
+			children = (
+				22CD2DBC23DE8AD7007AC7C7 /* Transform the Expression.cpp */,
+			);
+			path = "Stack And Queue";
 			sourceTree = "<group>";
 		};
 		22E8A63723DD5B7900A0ABB5 /* Sorting */ = {
@@ -161,7 +171,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				22CD2DBA23DE7B2A007AC7C7 /* SortTheArray.cpp in Sources */,
+				22CD2DBD23DE8AD7007AC7C7 /* Transform the Expression.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
