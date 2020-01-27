@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		22CD2DBD23DE8AD7007AC7C7 /* Transform the Expression.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 22CD2DBC23DE8AD7007AC7C7 /* Transform the Expression.cpp */; };
+		22CD2DBF23DE95A4007AC7C7 /* Throwing Cards Away I.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 22CD2DBE23DE95A4007AC7C7 /* Throwing Cards Away I.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -34,6 +34,7 @@
 		22CD2DB723DE72D1007AC7C7 /* Chores.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = Chores.cpp; sourceTree = "<group>"; };
 		22CD2DB923DE7B2A007AC7C7 /* SortTheArray.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = SortTheArray.cpp; sourceTree = "<group>"; };
 		22CD2DBC23DE8AD7007AC7C7 /* Transform the Expression.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "Transform the Expression.cpp"; sourceTree = "<group>"; };
+		22CD2DBE23DE95A4007AC7C7 /* Throwing Cards Away I.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "Throwing Cards Away I.cpp"; sourceTree = "<group>"; };
 		22E8A63523DD507B00A0ABB5 /* Books.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = Books.cpp; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -101,6 +102,7 @@
 			isa = PBXGroup;
 			children = (
 				22CD2DBC23DE8AD7007AC7C7 /* Transform the Expression.cpp */,
+				22CD2DBE23DE95A4007AC7C7 /* Throwing Cards Away I.cpp */,
 			);
 			path = "Stack And Queue";
 			sourceTree = "<group>";
@@ -171,7 +173,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				22CD2DBD23DE8AD7007AC7C7 /* Transform the Expression.cpp in Sources */,
+				22CD2DBF23DE95A4007AC7C7 /* Throwing Cards Away I.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
