@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		22EE1D5223E044AC007745C7 /* Add All.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 22EE1D5123E044AC007745C7 /* Add All.cpp */; };
+		22EE1D5423E0487A007745C7 /* Qheap1.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 22EE1D5323E0487A007745C7 /* Qheap1.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -43,6 +43,7 @@
 		22CD2DC123DE99F9007AC7C7 /* Breadth First Search: Shortest Reach.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "Breadth First Search: Shortest Reach.cpp"; sourceTree = "<group>"; };
 		22E8A63523DD507B00A0ABB5 /* Books.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = Books.cpp; sourceTree = "<group>"; };
 		22EE1D5123E044AC007745C7 /* Add All.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "Add All.cpp"; sourceTree = "<group>"; };
+		22EE1D5323E0487A007745C7 /* Qheap1.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = Qheap1.cpp; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -122,6 +123,7 @@
 			children = (
 				22C3B70423DFBC8000C20796 /* Monk and Multiplication  Monk and Multiplication  Monk and Multiplication  Monk and Multiplication  Monk and Multiplication.cpp */,
 				22EE1D5123E044AC007745C7 /* Add All.cpp */,
+				22EE1D5323E0487A007745C7 /* Qheap1.cpp */,
 			);
 			path = HEAP;
 			sourceTree = "<group>";
@@ -211,7 +213,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				22EE1D5223E044AC007745C7 /* Add All.cpp in Sources */,
+				22EE1D5423E0487A007745C7 /* Qheap1.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
