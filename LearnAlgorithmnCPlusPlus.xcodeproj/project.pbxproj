@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		22C3B70023DFAA0400C20796 /* Bishu and his Girlfriend  Bishu and his Girlfriend  Bishu and his Girlfriend  Bishu and his Girlfriend.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 22C3B6FF23DFAA0400C20796 /* Bishu and his Girlfriend  Bishu and his Girlfriend  Bishu and his Girlfriend  Bishu and his Girlfriend.cpp */; };
+		22C3B70223DFB00C00C20796 /* The Last Shot.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 22C3B70123DFB00C00C20796 /* The Last Shot.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -34,6 +34,7 @@
 		223F95FD23DC44B8002AF35F /* BigSegment.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = BigSegment.cpp; sourceTree = "<group>"; };
 		22BFB62623DC073800108510 /* LearnAlgorithmnCPlusPlus */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = LearnAlgorithmnCPlusPlus; sourceTree = BUILT_PRODUCTS_DIR; };
 		22C3B6FF23DFAA0400C20796 /* Bishu and his Girlfriend  Bishu and his Girlfriend  Bishu and his Girlfriend  Bishu and his Girlfriend.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "Bishu and his Girlfriend  Bishu and his Girlfriend  Bishu and his Girlfriend  Bishu and his Girlfriend.cpp"; sourceTree = "<group>"; };
+		22C3B70123DFB00C00C20796 /* The Last Shot.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "The Last Shot.cpp"; sourceTree = "<group>"; };
 		22CD2DB723DE72D1007AC7C7 /* Chores.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = Chores.cpp; sourceTree = "<group>"; };
 		22CD2DB923DE7B2A007AC7C7 /* SortTheArray.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = SortTheArray.cpp; sourceTree = "<group>"; };
 		22CD2DBC23DE8AD7007AC7C7 /* Transform the Expression.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "Transform the Expression.cpp"; sourceTree = "<group>"; };
@@ -108,6 +109,7 @@
 			isa = PBXGroup;
 			children = (
 				22C3B6FF23DFAA0400C20796 /* Bishu and his Girlfriend  Bishu and his Girlfriend  Bishu and his Girlfriend  Bishu and his Girlfriend.cpp */,
+				22C3B70123DFB00C00C20796 /* The Last Shot.cpp */,
 			);
 			path = "DEPTH FIRST SEARCH";
 			sourceTree = "<group>";
@@ -197,7 +199,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				22C3B70023DFAA0400C20796 /* Bishu and his Girlfriend  Bishu and his Girlfriend  Bishu and his Girlfriend  Bishu and his Girlfriend.cpp in Sources */,
+				22C3B70223DFB00C00C20796 /* The Last Shot.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
