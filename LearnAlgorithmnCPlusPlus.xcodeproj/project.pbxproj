@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		22EE1D5723E057E9007745C7 /* Restaurant Rating.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 22EE1D5523E057E9007745C7 /* Restaurant Rating.cpp */; };
+		22D91C4023E269F2007912A8 /* Travelling Cost.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 22D91C3F23E269F2007912A8 /* Travelling Cost.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -41,6 +41,7 @@
 		22CD2DBC23DE8AD7007AC7C7 /* Transform the Expression.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "Transform the Expression.cpp"; sourceTree = "<group>"; };
 		22CD2DBE23DE95A4007AC7C7 /* Throwing Cards Away I.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "Throwing Cards Away I.cpp"; sourceTree = "<group>"; };
 		22CD2DC123DE99F9007AC7C7 /* Breadth First Search: Shortest Reach.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "Breadth First Search: Shortest Reach.cpp"; sourceTree = "<group>"; };
+		22D91C3F23E269F2007912A8 /* Travelling Cost.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "Travelling Cost.cpp"; sourceTree = "<group>"; };
 		22E8A63523DD507B00A0ABB5 /* Books.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = Books.cpp; sourceTree = "<group>"; };
 		22EE1D5123E044AC007745C7 /* Add All.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "Add All.cpp"; sourceTree = "<group>"; };
 		22EE1D5323E0487A007745C7 /* Qheap1.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = Qheap1.cpp; sourceTree = "<group>"; };
@@ -99,6 +100,7 @@
 		22BFB62823DC073800108510 /* LearnAlgorithmnCPlusPlus */ = {
 			isa = PBXGroup;
 			children = (
+				22EE1D5823E0630F007745C7 /* DIJKSTRA'S ALGORITHM */,
 				22C3B70323DFBC5A00C20796 /* HEAP */,
 				22C3B6FE23DFA99A00C20796 /* DEPTH FIRST SEARCH */,
 				22CD2DC023DE99BF007AC7C7 /* BREATH FIRST SEARCH */,
@@ -158,6 +160,14 @@
 			path = SORTING;
 			sourceTree = "<group>";
 		};
+		22EE1D5823E0630F007745C7 /* DIJKSTRA'S ALGORITHM */ = {
+			isa = PBXGroup;
+			children = (
+				22D91C3F23E269F2007912A8 /* Travelling Cost.cpp */,
+			);
+			path = "DIJKSTRA'S ALGORITHM";
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
@@ -215,7 +225,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				22EE1D5723E057E9007745C7 /* Restaurant Rating.cpp in Sources */,
+				22D91C4023E269F2007912A8 /* Travelling Cost.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
