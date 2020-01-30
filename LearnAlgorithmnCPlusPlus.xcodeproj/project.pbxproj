@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		22D91C4023E269F2007912A8 /* Travelling Cost.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 22D91C3F23E269F2007912A8 /* Travelling Cost.cpp */; };
+		22D91C4223E275AD007912A8 /* Mice and Maze.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 22D91C4123E275AD007912A8 /* Mice and Maze.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -42,6 +42,7 @@
 		22CD2DBE23DE95A4007AC7C7 /* Throwing Cards Away I.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "Throwing Cards Away I.cpp"; sourceTree = "<group>"; };
 		22CD2DC123DE99F9007AC7C7 /* Breadth First Search: Shortest Reach.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "Breadth First Search: Shortest Reach.cpp"; sourceTree = "<group>"; };
 		22D91C3F23E269F2007912A8 /* Travelling Cost.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "Travelling Cost.cpp"; sourceTree = "<group>"; };
+		22D91C4123E275AD007912A8 /* Mice and Maze.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "Mice and Maze.cpp"; sourceTree = "<group>"; };
 		22E8A63523DD507B00A0ABB5 /* Books.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = Books.cpp; sourceTree = "<group>"; };
 		22EE1D5123E044AC007745C7 /* Add All.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "Add All.cpp"; sourceTree = "<group>"; };
 		22EE1D5323E0487A007745C7 /* Qheap1.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = Qheap1.cpp; sourceTree = "<group>"; };
@@ -164,6 +165,7 @@
 			isa = PBXGroup;
 			children = (
 				22D91C3F23E269F2007912A8 /* Travelling Cost.cpp */,
+				22D91C4123E275AD007912A8 /* Mice and Maze.cpp */,
 			);
 			path = "DIJKSTRA'S ALGORITHM";
 			sourceTree = "<group>";
@@ -225,7 +227,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				22D91C4023E269F2007912A8 /* Travelling Cost.cpp in Sources */,
+				22D91C4223E275AD007912A8 /* Mice and Maze.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
