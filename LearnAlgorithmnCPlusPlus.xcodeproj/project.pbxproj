@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		22F7BE1423E5E53E00FF403B /* Pangram.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 22F7BE1323E5E53E00FF403B /* Pangram.cpp */; };
+		22F7BE1623E5E7B000FF403B /* Soldier and Bananas.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 22F7BE1523E5E7B000FF403B /* Soldier and Bananas.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -52,6 +52,7 @@
 		22F7BE0E23E5D8ED00FF403B /* Sending Email.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "Sending Email.cpp"; sourceTree = "<group>"; };
 		22F7BE1123E5E39600FF403B /* Printer Queue  Printer Queue  Printer Queue  Printer Queue (UnAccepted).cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "Printer Queue  Printer Queue  Printer Queue  Printer Queue (UnAccepted).cpp"; sourceTree = "<group>"; };
 		22F7BE1323E5E53E00FF403B /* Pangram.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = Pangram.cpp; sourceTree = "<group>"; };
+		22F7BE1523E5E7B000FF403B /* Soldier and Bananas.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "Soldier and Bananas.cpp"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -184,6 +185,7 @@
 			children = (
 				22F7BE1123E5E39600FF403B /* Printer Queue  Printer Queue  Printer Queue  Printer Queue (UnAccepted).cpp */,
 				22F7BE1323E5E53E00FF403B /* Pangram.cpp */,
+				22F7BE1523E5E7B000FF403B /* Soldier and Bananas.cpp */,
 			);
 			path = "Mid Term";
 			sourceTree = "<group>";
@@ -245,7 +247,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				22F7BE1423E5E53E00FF403B /* Pangram.cpp in Sources */,
+				22F7BE1623E5E7B000FF403B /* Soldier and Bananas.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
