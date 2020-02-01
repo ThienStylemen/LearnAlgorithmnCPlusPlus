@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		22F7BE0F23E5D8ED00FF403B /* Sending Email.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 22F7BE0E23E5D8ED00FF403B /* Sending Email.cpp */; };
+		22F7BE1423E5E53E00FF403B /* Pangram.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 22F7BE1323E5E53E00FF403B /* Pangram.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -50,6 +50,8 @@
 		22F7BE0A23E5A56000FF403B /* The Shortest Path  The Shortest Path  The Shortest Path.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "The Shortest Path  The Shortest Path  The Shortest Path.cpp"; sourceTree = "<group>"; };
 		22F7BE0C23E5B81200FF403B /* Traffic Network  Traffic Network  Traffic Network.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "Traffic Network  Traffic Network  Traffic Network.cpp"; sourceTree = "<group>"; };
 		22F7BE0E23E5D8ED00FF403B /* Sending Email.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "Sending Email.cpp"; sourceTree = "<group>"; };
+		22F7BE1123E5E39600FF403B /* Printer Queue  Printer Queue  Printer Queue  Printer Queue (UnAccepted).cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "Printer Queue  Printer Queue  Printer Queue  Printer Queue (UnAccepted).cpp"; sourceTree = "<group>"; };
+		22F7BE1323E5E53E00FF403B /* Pangram.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = Pangram.cpp; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -104,6 +106,7 @@
 		22BFB62823DC073800108510 /* LearnAlgorithmnCPlusPlus */ = {
 			isa = PBXGroup;
 			children = (
+				22F7BE1023E5E33A00FF403B /* Mid Term */,
 				22EE1D5823E0630F007745C7 /* DIJKSTRA'S ALGORITHM */,
 				22C3B70323DFBC5A00C20796 /* HEAP */,
 				22C3B6FE23DFA99A00C20796 /* DEPTH FIRST SEARCH */,
@@ -176,6 +179,15 @@
 			path = "DIJKSTRA'S ALGORITHM";
 			sourceTree = "<group>";
 		};
+		22F7BE1023E5E33A00FF403B /* Mid Term */ = {
+			isa = PBXGroup;
+			children = (
+				22F7BE1123E5E39600FF403B /* Printer Queue  Printer Queue  Printer Queue  Printer Queue (UnAccepted).cpp */,
+				22F7BE1323E5E53E00FF403B /* Pangram.cpp */,
+			);
+			path = "Mid Term";
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
@@ -233,7 +245,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				22F7BE0F23E5D8ED00FF403B /* Sending Email.cpp in Sources */,
+				22F7BE1423E5E53E00FF403B /* Pangram.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
