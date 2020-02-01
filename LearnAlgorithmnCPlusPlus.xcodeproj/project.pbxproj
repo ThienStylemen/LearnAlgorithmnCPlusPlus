@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		22F7BE0D23E5B81200FF403B /* Traffic Network  Traffic Network  Traffic Network.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 22F7BE0C23E5B81200FF403B /* Traffic Network  Traffic Network  Traffic Network.cpp */; };
+		22F7BE0F23E5D8ED00FF403B /* Sending Email.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 22F7BE0E23E5D8ED00FF403B /* Sending Email.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -49,6 +49,7 @@
 		22EE1D5523E057E9007745C7 /* Restaurant Rating.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "Restaurant Rating.cpp"; sourceTree = "<group>"; };
 		22F7BE0A23E5A56000FF403B /* The Shortest Path  The Shortest Path  The Shortest Path.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "The Shortest Path  The Shortest Path  The Shortest Path.cpp"; sourceTree = "<group>"; };
 		22F7BE0C23E5B81200FF403B /* Traffic Network  Traffic Network  Traffic Network.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "Traffic Network  Traffic Network  Traffic Network.cpp"; sourceTree = "<group>"; };
+		22F7BE0E23E5D8ED00FF403B /* Sending Email.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "Sending Email.cpp"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -170,6 +171,7 @@
 				22D91C4123E275AD007912A8 /* Mice and Maze.cpp */,
 				22F7BE0A23E5A56000FF403B /* The Shortest Path  The Shortest Path  The Shortest Path.cpp */,
 				22F7BE0C23E5B81200FF403B /* Traffic Network  Traffic Network  Traffic Network.cpp */,
+				22F7BE0E23E5D8ED00FF403B /* Sending Email.cpp */,
 			);
 			path = "DIJKSTRA'S ALGORITHM";
 			sourceTree = "<group>";
@@ -231,7 +233,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				22F7BE0D23E5B81200FF403B /* Traffic Network  Traffic Network  Traffic Network.cpp in Sources */,
+				22F7BE0F23E5D8ED00FF403B /* Sending Email.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
