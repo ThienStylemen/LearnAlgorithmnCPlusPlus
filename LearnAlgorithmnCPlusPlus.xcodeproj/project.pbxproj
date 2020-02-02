@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		22F7BE1623E5E7B000FF403B /* Soldier and Bananas.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 22F7BE1523E5E7B000FF403B /* Soldier and Bananas.cpp */; };
+		222443FE23E677C6006AEAA3 /* Find The Median.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 222443FD23E677C6006AEAA3 /* Find The Median.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -25,6 +25,7 @@
 /* Begin PBXFileReference section */
 		2200DCDC23DCED6C0003F3F1 /* Array.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = Array.cpp; sourceTree = "<group>"; };
 		2200DCDE23DD08D00003F3F1 /* GeorgeAndRound.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = GeorgeAndRound.cpp; sourceTree = "<group>"; };
+		222443FD23E677C6006AEAA3 /* Find The Median.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "Find The Median.cpp"; sourceTree = "<group>"; };
 		2230E60E23DF145200095C08 /* Validate The Maze  Validate The Maze  Validate The Maze.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "Validate The Maze  Validate The Maze  Validate The Maze.cpp"; sourceTree = "<group>"; };
 		2230E61023DF210A00095C08 /* Guilty Prince.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "Guilty Prince.cpp"; sourceTree = "<group>"; };
 		223F95F423DC1D58002AF35F /* Fashion in Berland.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "Fashion in Berland.cpp"; sourceTree = "<group>"; usesTabs = 0; };
@@ -186,6 +187,7 @@
 				22F7BE1123E5E39600FF403B /* Printer Queue  Printer Queue  Printer Queue  Printer Queue (UnAccepted).cpp */,
 				22F7BE1323E5E53E00FF403B /* Pangram.cpp */,
 				22F7BE1523E5E7B000FF403B /* Soldier and Bananas.cpp */,
+				222443FD23E677C6006AEAA3 /* Find The Median.cpp */,
 			);
 			path = "Mid Term";
 			sourceTree = "<group>";
@@ -247,7 +249,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				22F7BE1623E5E7B000FF403B /* Soldier and Bananas.cpp in Sources */,
+				222443FE23E677C6006AEAA3 /* Find The Median.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
