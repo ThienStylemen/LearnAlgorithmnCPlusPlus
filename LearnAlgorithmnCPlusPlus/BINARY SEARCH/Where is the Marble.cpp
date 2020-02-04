@@ -93,3 +93,21 @@ int main(){
     system("pause");
     return 0;
 }
+
+/*
+ int BSFirst(int a[], int left, int right, int x) {
+     if (left <= right) {
+         int mid = left + (right - left) / 2;
+
+         if (a[mid] == x && (mid == left || a[mid - 1] < x)) {
+             return mid;
+         }
+         else if (a[mid] < x) {
+             return BSFirst(a, mid + 1, right, x);
+         }
+         return BSFirst(a, left, mid - 1, x);
+     }
+
+     return -1;
+ }
+ */
