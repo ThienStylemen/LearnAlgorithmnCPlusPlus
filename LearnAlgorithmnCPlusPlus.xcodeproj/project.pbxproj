@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		22078C3523EA902100218C66 /* Megacity  Megacity  Megacity.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 22078C3423EA902100218C66 /* Megacity  Megacity  Megacity.cpp */; };
+		22078C3723EA991B00218C66 /* Monk and his Friends.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 22078C3623EA991B00218C66 /* Monk and his Friends.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -29,6 +29,7 @@
 		22078C2D23EA798700218C66 /* Distinct Count.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "Distinct Count.cpp"; sourceTree = "<group>"; };
 		22078C3223EA8B2F00218C66 /* Isenbaev's Number.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "Isenbaev's Number.cpp"; sourceTree = "<group>"; };
 		22078C3423EA902100218C66 /* Megacity  Megacity  Megacity.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "Megacity  Megacity  Megacity.cpp"; sourceTree = "<group>"; };
+		22078C3623EA991B00218C66 /* Monk and his Friends.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "Monk and his Friends.cpp"; sourceTree = "<group>"; };
 		222443FD23E677C6006AEAA3 /* Find The Median.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "Find The Median.cpp"; sourceTree = "<group>"; };
 		2230E60E23DF145200095C08 /* Validate The Maze  Validate The Maze  Validate The Maze.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "Validate The Maze  Validate The Maze  Validate The Maze.cpp"; sourceTree = "<group>"; };
 		2230E61023DF210A00095C08 /* Guilty Prince.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "Guilty Prince.cpp"; sourceTree = "<group>"; };
@@ -94,6 +95,7 @@
 				22078C2D23EA798700218C66 /* Distinct Count.cpp */,
 				22078C3223EA8B2F00218C66 /* Isenbaev's Number.cpp */,
 				22078C3423EA902100218C66 /* Megacity  Megacity  Megacity.cpp */,
+				22078C3623EA991B00218C66 /* Monk and his Friends.cpp */,
 			);
 			path = "BINARY SEARCH TREE";
 			sourceTree = "<group>";
@@ -295,7 +297,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				22078C3523EA902100218C66 /* Megacity  Megacity  Megacity.cpp in Sources */,
+				22078C3723EA991B00218C66 /* Monk and his Friends.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
