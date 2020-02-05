@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		2261B0F223E9E001005A495E /* Ekko.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 2261B0F123E9E001005A495E /* Ekko.cpp */; };
+		22078C2B23EA69FB00218C66 /* The Playboy Chimp.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 22078C2A23EA69FB00218C66 /* The Playboy Chimp.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -25,6 +25,7 @@
 /* Begin PBXFileReference section */
 		2200DCDC23DCED6C0003F3F1 /* Array.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = Array.cpp; sourceTree = "<group>"; };
 		2200DCDE23DD08D00003F3F1 /* GeorgeAndRound.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = GeorgeAndRound.cpp; sourceTree = "<group>"; };
+		22078C2A23EA69FB00218C66 /* The Playboy Chimp.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "The Playboy Chimp.cpp"; sourceTree = "<group>"; };
 		222443FD23E677C6006AEAA3 /* Find The Median.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "Find The Median.cpp"; sourceTree = "<group>"; };
 		2230E60E23DF145200095C08 /* Validate The Maze  Validate The Maze  Validate The Maze.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "Validate The Maze  Validate The Maze  Validate The Maze.cpp"; sourceTree = "<group>"; };
 		2230E61023DF210A00095C08 /* Guilty Prince.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "Guilty Prince.cpp"; sourceTree = "<group>"; };
@@ -113,6 +114,7 @@
 				2261B0EC23E9BB6D005A495E /* Where is the Marble.cpp */,
 				2261B0EF23E9D219005A495E /* Pizzamania.cpp */,
 				2261B0F123E9E001005A495E /* Ekko.cpp */,
+				22078C2A23EA69FB00218C66 /* The Playboy Chimp.cpp */,
 			);
 			path = "BINARY SEARCH";
 			sourceTree = "<group>";
@@ -279,7 +281,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				2261B0F223E9E001005A495E /* Ekko.cpp in Sources */,
+				22078C2B23EA69FB00218C66 /* The Playboy Chimp.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
