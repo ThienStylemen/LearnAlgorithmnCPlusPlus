@@ -8,7 +8,7 @@
 
 
 /*
- Isenbaev's Number
+    
 
  Vladislav Isenbaev is a two-time champion of Ural, vice champion of TopCoder Open 2009, and absolute champion of ACM ICPC 2009. In the time you will spend reading this problem statement Vladislav would have solved a problem. Maybe, even two…
 
