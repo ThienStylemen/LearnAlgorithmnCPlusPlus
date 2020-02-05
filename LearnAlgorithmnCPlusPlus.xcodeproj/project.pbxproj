@@ -8,6 +8,8 @@
 
 /* Begin PBXBuildFile section */
 		22078C3723EA991B00218C66 /* Monk and his Friends.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 22078C3623EA991B00218C66 /* Monk and his Friends.cpp */; };
+		22DB901323EAEE3000B821AE /* Search Engine.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 22DB901223EAEE3000B821AE /* Search Engine.cpp */; };
+		22DB901523EAEF2C00B821AE /* DNA Prefix.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 22DB901423EAEF2C00B821AE /* DNA Prefix.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -56,6 +58,8 @@
 		22CD2DC123DE99F9007AC7C7 /* Breadth First Search: Shortest Reach.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "Breadth First Search: Shortest Reach.cpp"; sourceTree = "<group>"; };
 		22D91C3F23E269F2007912A8 /* Travelling Cost.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "Travelling Cost.cpp"; sourceTree = "<group>"; };
 		22D91C4123E275AD007912A8 /* Mice and Maze.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "Mice and Maze.cpp"; sourceTree = "<group>"; };
+		22DB901223EAEE3000B821AE /* Search Engine.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "Search Engine.cpp"; sourceTree = "<group>"; };
+		22DB901423EAEF2C00B821AE /* DNA Prefix.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "DNA Prefix.cpp"; sourceTree = "<group>"; };
 		22E8A63523DD507B00A0ABB5 /* Books.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = Books.cpp; sourceTree = "<group>"; };
 		22EE1D5123E044AC007745C7 /* Add All.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "Add All.cpp"; sourceTree = "<group>"; };
 		22EE1D5323E0487A007745C7 /* Qheap1.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = Qheap1.cpp; sourceTree = "<group>"; };
@@ -153,6 +157,7 @@
 		22BFB62823DC073800108510 /* LearnAlgorithmnCPlusPlus */ = {
 			isa = PBXGroup;
 			children = (
+				22DB901123EAEE1800B821AE /* TRIE */,
 				22078C2C23EA795900218C66 /* BINARY SEARCH TREE */,
 				2261B0EB23E9BB2C005A495E /* BINARY SEARCH */,
 				222443FF23E67B0E006AEAA3 /* BELLMAN-FORD'S ALGORITHM   */,
@@ -206,6 +211,15 @@
 				2230E61023DF210A00095C08 /* Guilty Prince.cpp */,
 			);
 			path = "BREATH FIRST SEARCH";
+			sourceTree = "<group>";
+		};
+		22DB901123EAEE1800B821AE /* TRIE */ = {
+			isa = PBXGroup;
+			children = (
+				22DB901223EAEE3000B821AE /* Search Engine.cpp */,
+				22DB901423EAEF2C00B821AE /* DNA Prefix.cpp */,
+			);
+			path = TRIE;
 			sourceTree = "<group>";
 		};
 		22E8A63723DD5B7900A0ABB5 /* SORTING */ = {
@@ -297,6 +311,8 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				22DB901523EAEF2C00B821AE /* DNA Prefix.cpp in Sources */,
+				22DB901323EAEE3000B821AE /* Search Engine.cpp in Sources */,
 				22078C3723EA991B00218C66 /* Monk and his Friends.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
