@@ -147,6 +147,13 @@
 			path = "PRIM'S ALGORITHM  ";
 			sourceTree = "<group>";
 		};
+		2293F40723EC51840031D9D4 /* Data structure and Algorithm Before Drop out */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = "Data structure and Algorithm Before Drop out";
+			sourceTree = "<group>";
+		};
 		22BFB61D23DC073800108510 = {
 			isa = PBXGroup;
 			children = (
@@ -166,6 +173,7 @@
 		22BFB62823DC073800108510 /* LearnAlgorithmnCPlusPlus */ = {
 			isa = PBXGroup;
 			children = (
+				2293F40723EC51840031D9D4 /* Data structure and Algorithm Before Drop out */,
 				2293F3FB23EC06420031D9D4 /* PRIM'S ALGORITHM   */,
 				22DB901123EAEE1800B821AE /* TRIE */,
 				22078C2C23EA795900218C66 /* BINARY SEARCH TREE */,
