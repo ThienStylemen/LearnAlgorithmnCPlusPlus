@@ -7,9 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		22078C3723EA991B00218C66 /* Monk and his Friends.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 22078C3623EA991B00218C66 /* Monk and his Friends.cpp */; };
-		22DB901323EAEE3000B821AE /* Search Engine.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 22DB901223EAEE3000B821AE /* Search Engine.cpp */; };
-		22DB901523EAEF2C00B821AE /* DNA Prefix.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 22DB901423EAEF2C00B821AE /* DNA Prefix.cpp */; };
+		2293F3FD23EC067F0031D9D4 /* Minimum Spanning Tree Minimum Spanning Tree  Minimum Spanning Tree  Minimum Spanning Tree  Minimum Spanning Tree.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 2293F3FC23EC067F0031D9D4 /* Minimum Spanning Tree Minimum Spanning Tree  Minimum Spanning Tree  Minimum Spanning Tree  Minimum Spanning Tree.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -43,6 +41,7 @@
 		2261B0EC23E9BB6D005A495E /* Where is the Marble.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "Where is the Marble.cpp"; sourceTree = "<group>"; };
 		2261B0EF23E9D219005A495E /* Pizzamania.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = Pizzamania.cpp; sourceTree = "<group>"; };
 		2261B0F123E9E001005A495E /* Ekko.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = Ekko.cpp; sourceTree = "<group>"; };
+		2293F3FC23EC067F0031D9D4 /* Minimum Spanning Tree Minimum Spanning Tree  Minimum Spanning Tree  Minimum Spanning Tree  Minimum Spanning Tree.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "Minimum Spanning Tree Minimum Spanning Tree  Minimum Spanning Tree  Minimum Spanning Tree  Minimum Spanning Tree.cpp"; sourceTree = "<group>"; };
 		22BFB62623DC073800108510 /* LearnAlgorithmnCPlusPlus */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = LearnAlgorithmnCPlusPlus; sourceTree = BUILT_PRODUCTS_DIR; };
 		22C34AA123E934EE005049C7 /* Wormholes.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = Wormholes.cpp; sourceTree = "<group>"; };
 		22C34AA323E93A41005049C7 /* Extended traffic.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "Extended traffic.cpp"; sourceTree = "<group>"; };
@@ -138,6 +137,14 @@
 			path = "BINARY SEARCH";
 			sourceTree = "<group>";
 		};
+		2293F3FB23EC06420031D9D4 /* PRIM'S ALGORITHM   */ = {
+			isa = PBXGroup;
+			children = (
+				2293F3FC23EC067F0031D9D4 /* Minimum Spanning Tree Minimum Spanning Tree  Minimum Spanning Tree  Minimum Spanning Tree  Minimum Spanning Tree.cpp */,
+			);
+			path = "PRIM'S ALGORITHM  ";
+			sourceTree = "<group>";
+		};
 		22BFB61D23DC073800108510 = {
 			isa = PBXGroup;
 			children = (
@@ -157,6 +164,7 @@
 		22BFB62823DC073800108510 /* LearnAlgorithmnCPlusPlus */ = {
 			isa = PBXGroup;
 			children = (
+				2293F3FB23EC06420031D9D4 /* PRIM'S ALGORITHM   */,
 				22DB901123EAEE1800B821AE /* TRIE */,
 				22078C2C23EA795900218C66 /* BINARY SEARCH TREE */,
 				2261B0EB23E9BB2C005A495E /* BINARY SEARCH */,
@@ -311,9 +319,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				22DB901523EAEF2C00B821AE /* DNA Prefix.cpp in Sources */,
-				22DB901323EAEE3000B821AE /* Search Engine.cpp in Sources */,
-				22078C3723EA991B00218C66 /* Monk and his Friends.cpp in Sources */,
+				2293F3FD23EC067F0031D9D4 /* Minimum Spanning Tree Minimum Spanning Tree  Minimum Spanning Tree  Minimum Spanning Tree  Minimum Spanning Tree.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
