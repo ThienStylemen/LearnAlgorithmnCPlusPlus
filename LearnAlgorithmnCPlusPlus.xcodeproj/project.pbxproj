@@ -6,10 +6,6 @@
 	objectVersion = 50;
 	objects = {
 
-/* Begin PBXBuildFile section */
-		2293F3FD23EC067F0031D9D4 /* Minimum Spanning Tree Minimum Spanning Tree  Minimum Spanning Tree  Minimum Spanning Tree  Minimum Spanning Tree.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 2293F3FC23EC067F0031D9D4 /* Minimum Spanning Tree Minimum Spanning Tree  Minimum Spanning Tree  Minimum Spanning Tree  Minimum Spanning Tree.cpp */; };
-/* End PBXBuildFile section */
-
 /* Begin PBXCopyFilesBuildPhase section */
 		22BFB62423DC073800108510 /* CopyFiles */ = {
 			isa = PBXCopyFilesBuildPhase;
@@ -42,6 +38,9 @@
 		2261B0EF23E9D219005A495E /* Pizzamania.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = Pizzamania.cpp; sourceTree = "<group>"; };
 		2261B0F123E9E001005A495E /* Ekko.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = Ekko.cpp; sourceTree = "<group>"; };
 		2293F3FC23EC067F0031D9D4 /* Minimum Spanning Tree Minimum Spanning Tree  Minimum Spanning Tree  Minimum Spanning Tree  Minimum Spanning Tree.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "Minimum Spanning Tree Minimum Spanning Tree  Minimum Spanning Tree  Minimum Spanning Tree  Minimum Spanning Tree.cpp"; sourceTree = "<group>"; };
+		2293F3FE23EC0EFE0031D9D4 /* Connect The Campus.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "Connect The Campus.cpp"; sourceTree = "<group>"; };
+		2293F40223EC48D10031D9D4 /* Cobbled streets  Cobbled streets  Cobbled streets.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "Cobbled streets  Cobbled streets  Cobbled streets.cpp"; sourceTree = "<group>"; };
+		2293F40423EC49DD0031D9D4 /* Road Construction.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "Road Construction.cpp"; sourceTree = "<group>"; };
 		22BFB62623DC073800108510 /* LearnAlgorithmnCPlusPlus */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = LearnAlgorithmnCPlusPlus; sourceTree = BUILT_PRODUCTS_DIR; };
 		22C34AA123E934EE005049C7 /* Wormholes.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = Wormholes.cpp; sourceTree = "<group>"; };
 		22C34AA323E93A41005049C7 /* Extended traffic.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "Extended traffic.cpp"; sourceTree = "<group>"; };
@@ -141,6 +140,9 @@
 			isa = PBXGroup;
 			children = (
 				2293F3FC23EC067F0031D9D4 /* Minimum Spanning Tree Minimum Spanning Tree  Minimum Spanning Tree  Minimum Spanning Tree  Minimum Spanning Tree.cpp */,
+				2293F3FE23EC0EFE0031D9D4 /* Connect The Campus.cpp */,
+				2293F40223EC48D10031D9D4 /* Cobbled streets  Cobbled streets  Cobbled streets.cpp */,
+				2293F40423EC49DD0031D9D4 /* Road Construction.cpp */,
 			);
 			path = "PRIM'S ALGORITHM  ";
 			sourceTree = "<group>";
@@ -319,7 +321,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				2293F3FD23EC067F0031D9D4 /* Minimum Spanning Tree Minimum Spanning Tree  Minimum Spanning Tree  Minimum Spanning Tree  Minimum Spanning Tree.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
